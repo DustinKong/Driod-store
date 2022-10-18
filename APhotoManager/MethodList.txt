@@ -1,0 +1,2 @@
+de/k3b/android/androFotoFinder/FotoGalleryActivity/onOptionsItemSelected
+de/k3b/android/androFotoFinder/SettingsActivity/show

@@ -1,0 +1,7 @@
+{
+    "event": [{
+        "ID": 1,
+        "type": "de/k3b/android/androFotoFinder/FotoGalleryActivity/onOptionsItemSelected",
+        "signature": ["de/k3b/android/androFotoFinder/FotoGalleryActivity/onOptionsItemSelected", "de/k3b/android/androFotoFinder/SettingsActivity/show", "[de/k3b/android/androFotoFinder/SettingsActivity/show]", "[de/k3b/android/androFotoFinder/FotoGalleryActivity/onOptionsItemSelected]"]
+    }]
+}
